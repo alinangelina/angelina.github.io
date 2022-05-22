@@ -1,0 +1,63 @@
+header {
+    text-align: center;
+    background: url(bg.png);
+    background-size: cover;
+    color: white;
+}
+
+img {
+    width: 350px;
+    margin: 10px;
+    border-radius: 40px;
+    border: 7px solid white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 60px;
+    color: black;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+ul {
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+ul li a {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.container {
+    width: 75%;
+    padding: 10px;
+    margin: 10px auto;
+
+}
+
+.center-img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+}
